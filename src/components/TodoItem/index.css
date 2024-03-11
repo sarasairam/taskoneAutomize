@@ -1,0 +1,45 @@
+.listItem{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    background-color:#3a6dac ;
+    border-radius: 12px;
+    width: 80vw;
+    margin-top: 20px;  
+    color: #ffffff;
+    font-size: 25px;
+}
+.editButton{
+    background-color: transparent;
+    border: 0px;
+    color: #ffffff;
+    font-size: 30px;
+    margin-right: 35px;
+    margin-top: 20px;
+}
+.deleteButton{
+    background-color: transparent;
+    border: 0px;
+    color: #dd0b0b;
+    font-size: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.listItemDiv{
+    display: flex;
+    flex-direction: row;
+}
+.para{
+    margin-right: 20px;
+}
+.inputEl{
+    padding:10px ;
+    font-size: 15px;
+    border-radius: 12px;
+    border: 0px;
+}
+.listFDiv{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,38 @@
+.mainContainer{
+    background-color: #1a213fcb;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    max-height: fit-content;
+  }
+  .headingElement{
+    color: #ffffff;
+    font-size: 45px;
+  }
+  .inputElement{
+    padding:20px;
+    width: 400px;
+    border-radius: 15px;
+    border: 0px;
+    align-self: flex-start;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  .addButton{
+    background-color: #3a6dac;
+    width:130px;
+    padding: 10px;
+    color:#ffffff;
+    margin-top:20px;
+    align-self: flex-start;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  .list{
+    list-style-type: none;
+    align-self: flex-start;
+    width: fit-content;
+  }
